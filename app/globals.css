@@ -4,4 +4,22 @@
   --color-premium-navy: #0f172a;
   --color-premium-gold: #b59410;
   --color-premium-light: #f8fafc;
+  --animate-marquee: marquee 80s linear infinite;
+
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-100%); }
+  }
 }
+
+@layer base {
+  body {
+    background-color: var(--color-premium-navy);
+    color: white;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Ukrywanie scrollbara */
+.hide-scrollbars::-webkit-scrollbar { display: none; }
+.hide-scrollbars { -ms-overflow-style: none; scrollbar-width: none; }

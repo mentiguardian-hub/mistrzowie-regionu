@@ -10,8 +10,19 @@ const config: Config = {
     extend: {
       colors: {
         premiumNavy: '#0f172a',  // Głęboki granat
-        premiumGold: '#b59410',  // Twoje złoto
-        premiumLight: '#f8fafc', // Twoje tło
+        premiumGold: '#d4af37',  // Our gold
+        premiumLight: '#f8fafc', // Our background 
+      },
+      // NOWOŚĆ: Definicja ruchu paska informacyjnego
+      keyframes: {
+        marquee: {
+          '0%': { transform: 'translateX(0%)' },
+          '100%': { transform: 'translateX(-100%)' },
+        }
+      },
+      // NOWOŚĆ: Ustawienie czasu trwania animacji (30 sekund dla płynności)
+      animation: {
+        marquee: 'marquee 30s linear infinite',
       },
     },
   },

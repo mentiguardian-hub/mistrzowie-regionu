@@ -1,0 +1,23 @@
+{
+  "name": "Harmonogram Odpadów - Mistrzowie Regionu",
+  "short_name": "Odpady MR",
+  "description": "Twój inteligentny harmonogram wywozu śmieci w Gminie Nieporęt",
+  "start_url": "/harmonogramy",
+  "display": "standalone",
+  "background_color": "#001f3f",
+  "theme_color": "#b59410",
+  "icons": [
+    {
+      "src": "/icons/icon-odpady-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-odpady-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,957 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MistrzowieRegionu//PL
+METHOD:PUBLISH
+X-WR-CALNAME:Wywóz - Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+X-WR-TIMEZONE:Europe/Warsaw
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:20260109-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260123-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260206-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260220-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260306-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260320-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260403-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260417-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260502-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260515-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260529-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260612-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260626-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260710-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260724-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260807-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-zmieszane-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🚚 ZMIESZANE 🚮 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: ZMIESZANE 🚮
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260128-metale-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:🚚 METALE I TWORZYWA ♻️ [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: METALE I TWORZYWA ♻️
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260225-metale-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:🚚 METALE I TWORZYWA ♻️ [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: METALE I TWORZYWA ♻️
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260325-metale-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:🚚 METALE I TWORZYWA ♻️ [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: METALE I TWORZYWA ♻️
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260422-metale-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:🚚 METALE I TWORZYWA ♻️ [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: METALE I TWORZYWA ♻️
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260520-metale-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:🚚 METALE I TWORZYWA ♻️ [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: METALE I TWORZYWA ♻️
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260617-metale-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:🚚 METALE I TWORZYWA ♻️ [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: METALE I TWORZYWA ♻️
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260715-metale-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:🚚 METALE I TWORZYWA ♻️ [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: METALE I TWORZYWA ♻️
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260812-metale-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:🚚 METALE I TWORZYWA ♻️ [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: METALE I TWORZYWA ♻️
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-metale-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🚚 METALE I TWORZYWA ♻️ [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: METALE I TWORZYWA ♻️
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-metale-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🚚 METALE I TWORZYWA ♻️ [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: METALE I TWORZYWA ♻️
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260105-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260202-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260302-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260330-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260427-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260525-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260622-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260720-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260914-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012-papier-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🚚 PAPIER 📦 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: PAPIER 📦
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260102-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260129-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260226-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260326-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260423-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260521-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260618-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260716-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260813-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008-szklo-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:🚚 SZKŁO 🍾 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: SZKŁO 🍾
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260108-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260205-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260305-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260402-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260416-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260430-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260514-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260528-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260611-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260625-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260709-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260723-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260806-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261001-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029-bio-rejon1@mistrzowieregionu.pl
+DTSTAMP:20260526T210545Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🚚 BIOODPADY 🪵 [Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt]
+DESCRIPTION:Wystaw pojemnik przed bramę! Rejon: Rejon I: Beniaminów, Białobrzegi, Rynia, Nieporęt
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:🚚 JUTRO wywóz: BIOODPADY 🪵
+END:VALARM
+END:VEVENT
+END:VCALENDAR

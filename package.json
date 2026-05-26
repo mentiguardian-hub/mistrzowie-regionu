@@ -4,14 +4,22 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/generate-ics.mjs && next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "next lint",
+    "publish": "npm run build && firebase deploy --only hosting"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.2.0",
+    "@fortawesome/free-solid-svg-icons": "^7.2.0",
+    "@fortawesome/react-fontawesome": "^3.2.0",
+    "browser-image-compression": "^2.0.2",
+    "firebase": "^12.11.0",
+    "fuse.js": "^7.3.0",
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-icons": "^5.6.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

@@ -1,0 +1,80 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Twoja funkcja władzy - tylko Ty masz pełną kontrolę
+    function isAdmin() {
+      return request.auth != null && request.auth.token.email == "kontakt@mistrzowieregionu.pl";
+    }
+
+   // 1. OGŁOSZENIA (Kolekcja: classifieds)
+match /classifieds/{adId} { 
+  // Każdy może przeglądać ogłoszenia (kluczowe dla SEO i linków)
+  allow read: if true; 
+
+  // Tylko zalogowany użytkownik może stworzyć ogłoszenie
+  allow create: if request.auth != null; 
+
+  // Edycja i usuwanie: Tylko dla Admina LUB faktycznego właściciela ogłoszenia
+  allow update, delete: if isAdmin() || (
+    request.auth != null && 
+    request.auth.uid == resource.data.userId
+  );
+}
+
+    // 2. SYSTEM ZLECEŃ I WIADOMOŚCI
+    match /inbound_leads/{leadId} {
+      allow create: if true; 
+      allow read, update, delete: if isAdmin();
+    }
+    match /portal_messages/{document=**} { allow read, write: if isAdmin(); }
+
+    // 3. FIRMY I PARTNERZY
+    match /zgloszenia_firm/{document=**} { 
+      allow read, create: if true; 
+      allow update, delete: if isAdmin(); 
+    }
+    match /partners/{partnerId} {
+      allow read: if true;
+      allow write: if isAdmin(); 
+    }
+
+    // 4. TREŚCI PORTALU (Blog, Aktualności, Tablica i Pasek)
+    match /news_ticker/{document=**} {
+      allow read: if true; 
+      allow write: if isAdmin(); 
+    }
+    match /blog_posts/{document=**} { 
+      allow read: if true; 
+      allow create: if true; 
+      allow update, delete: if isAdmin(); 
+    }
+    match /aktualnosci/{document=**} { 
+      allow read: if true; 
+      allow write: if isAdmin(); 
+    }
+    match /tablica_posts/{document=**} { 
+      allow read, create: if true; 
+      allow update, delete: if isAdmin();
+    }
+    match /tablica_komentarze/{document=**} { 
+      allow read, create: if true; 
+      allow update, delete: if isAdmin(); 
+    }
+
+    // 5. POZOSTAŁE MODUŁY
+    match /leads_public/{leadId} { allow read: if true; allow write: if false; }
+    match /leads_private/{leadId} { allow read, write: if false; }
+    match /audit_logs/{logId} { allow read: if isAdmin(); allow write: if true; }
+    match /classifieds/{document=**} { allow read: if true; allow write: if isAdmin(); }
+    match /reviews/{document=**} { allow read: if true; allow write: if isAdmin(); }
+    match /users/{document=**} { allow read: if isAdmin(); allow write: if isAdmin(); }
+
+    // 6. ANKIETY I POLECENIA (Nowy moduł) 🚀
+    match /ankiety_polecenia/{document=**} {
+      allow create: if true; // Każdy mieszkaniec może wysłać ankietę
+      allow read, update, delete: if isAdmin(); // Tylko Ty (admin) możesz je czytać i zarządzać nimi
+    }
+
+  } // <-- Ten nawias zamyka match /databases...
+} // <-- Ten nawias zamyka service cloud.firestore
